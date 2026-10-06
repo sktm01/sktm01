@@ -82,8 +82,8 @@ Knowledge and documentation platform developed alongside Service Desk.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sktm01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sktm01&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sktm01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats">
+<img height="175" src="https://streak-stats.demolab.com?user=sktm01&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak">
 
 </div>
 
